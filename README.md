@@ -12,7 +12,7 @@ Et voici les quelques consignes pour un travail réussi :
 Tu hébergeras le code sur ton repository Github. Pour poster le résultat, utilise le service pages de Github et poste le lien vers ta version de findThePrecious.com !
 Critéres de validation
 
-        Le code est propre et passe le validateur W3C.
+    Le code est propre et passe le validateur W3C.
     Bootstrap et ses dépendances sont correctement chargés (CSS et JS) via les CDN.
     Le code CSS est appelé dans des fichiers séparés et correctement organisé, en suivant les bonnes pratiques expliquées dans la quête dédiée.
     Les portraits des aventuriers reprennent le comportement au survol de la souris que tu as mis en place dans la quête sur le CSS.
